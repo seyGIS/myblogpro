@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "3322ce43"
+  },
+  "about.qmd": {
+    "about.html": "2e7134a5"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "d505ce1e"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "02748406"
+  },
+  "cv.qmd": {
+    "cv.html": "1dae0d4e"
+  },
+  "index_old.qmd": {
+    "index_old.html": "7509ceef"
+  },
+  "portofolio.qmd": {
+    "portofolio.html": "2c726ac2"
+  }
+}

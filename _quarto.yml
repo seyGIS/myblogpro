@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Seydina Issa Laye FALL"
+  navbar:
+    left: 
+      - text: "Homme"
+        href: index.qmd
+      - text: "Portofolio"
+        href: portofolio.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
